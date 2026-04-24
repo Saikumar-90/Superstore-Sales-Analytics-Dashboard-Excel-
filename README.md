@@ -4,10 +4,10 @@ Developed an interactive Sales Analytics Dashboard in Excel using the Superstore
 
 ## Dashboard Preview
 
-![Dashboard 1](https://github.com/user-attachments/assets/68f781c2-cfb3-47e2-ad3b-46e91a690f74)
+![Dashboard 1](https://raw.githubusercontent.com/Saikumar-90/Superstore-Sales-Analytics-Dashboard-2014-2017/main/Dashboard_1.png)
 
-![Dashboard 2](https://github.com/user-attachments/assets/974530c5-3208-4635-9f43-02b2e3aa4884)
+![Dashboard 2](https://raw.githubusercontent.com/Saikumar-90/Superstore-Sales-Analytics-Dashboard-2014-2017/main/Dashboard_2.png)
 
-![Dashboard 3](https://github.com/user-attachments/assets/8b698e44-33df-4f2b-88f9-db84994f138)
+![Dashboard 3](https://raw.githubusercontent.com/Saikumar-90/Superstore-Sales-Analytics-Dashboard-2014-2017/main/Dashboard_3.png)
 
-![Dashboard 4](https://github.com/user-attachments/assets/c9574f99-5c43-4243-bf60-cdda2283b8a5)
+![Dashboard 4](https://raw.githubusercontent.com/Saikumar-90/Superstore-Sales-Analytics-Dashboard-2014-2017/main/Dashboard_4.png)
