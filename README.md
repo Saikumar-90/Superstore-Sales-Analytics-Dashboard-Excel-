@@ -4,7 +4,7 @@ Developed an interactive Sales Analytics Dashboard in Excel using the Superstore
 
 ## Dashboard Preview
 
-![Dashboard 1](PASTE-LINK-1)
+![Dashboard 1]()
 ![Dashboard 2](PASTE-LINK-2)
 ![Dashboard 3](PASTE-LINK-3)
 ![Dashboard 4](PASTE-LINK-4)
