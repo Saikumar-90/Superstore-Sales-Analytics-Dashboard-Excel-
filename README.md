@@ -1,3 +1,7 @@
+## Download Full Excel Dashboard:
+https://raw.githubusercontent.com/your-username/repo-name/main/your-file.xlsx
+
+
 # Superstore-Sales-Analytics-Dashboard-2014-2017-
 
 ## Project Overview
@@ -49,6 +53,14 @@ Developed an interactive Sales Analytics Dashboard in Excel using the Superstore
 
 ### Dashboard View 4
 ![Dashboard View 4](Dashboard%204.png)
+
+
+
+## Dataset
+Sample Superstore dataset from Kaggle
+
+## How to Use
+Download the Excel file → Open → Use slicers to interact
 
 
 
