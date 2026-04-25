@@ -6,7 +6,7 @@ Developed an interactive Sales Analytics Dashboard in Excel using the Superstore
 
 
 
-### Key Features
+## Key Features
 
 * KPI cards for Total Sales, Total Profit, and Profit Margin
 * Region-wise Sales & Profit analysis
